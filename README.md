@@ -1,6 +1,6 @@
 # A-Simple-System-Call
 
-<b> Course Assignment for Operating Systems (CSE231) </b>
+<b> Course Assignment for Operating Systems (CSE231) </b><br>
 <b> Instructor : Dr. Sambuddho Chakravarty </b>
 
 In this assignment, the task is to create our own system call in C, called sh task info(), which takes argument as PID. It would need to search out the task struct() corresponding 
